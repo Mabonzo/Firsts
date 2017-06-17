@@ -30,7 +30,7 @@ image(brocolli,122,125);
 image(brocolli,174,149);
 */
 fill(0,0,0);
-rotate(1);
+rotate(45 * Math.PI / 180.0);
 rect(151,23,10,10);         //pepper! :-/
 rect(400,45,10,10);
 rect(241,45,10,10);
